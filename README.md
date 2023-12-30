@@ -15,7 +15,7 @@ It does so by:
 
 ## Reporting issues
 
-Please report issues [on GitHub](https://github.com/apankowski/zilence/issues), providing:
+Please report issues [on GitHub](https://github.com/RedFraction/tilence/issues), providing:
 
 * OS version (can be found in _Settings_ → _About_ → _OS Name_ and _OS Type_),
 * GNOME version (can be found in _Settings_ → _About_ → _GNOME Version_),
@@ -24,7 +24,7 @@ Please report issues [on GitHub](https://github.com/apankowski/zilence/issues), 
 and attaching extension logs since last boot:
 
 ```bash
-journalctl -b | grep -i zilence > zilence.log
+journalctl -b | grep -i tilence > tilence.log
 ```
 
 (the command above will save logs in `zilence.log` file).
