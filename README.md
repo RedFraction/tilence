@@ -5,6 +5,9 @@
 
 Tilence is a GNOME Shell extension turning off notifications while sharing screen during a Kontur Talk call.
 
+(Fork of - (https://github.com/apankowski/zilence/)
+
+
 It does so by:
 
 * tracking presence of Talk's screen sharing panel (seen at the top-center of the screen),
