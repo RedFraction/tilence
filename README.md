@@ -27,7 +27,7 @@ and attaching extension logs since last boot:
 journalctl -b | grep -i tilence > tilence.log
 ```
 
-(the command above will save logs in `zilence.log` file).
+(the command above will save logs in `tilence.log` file).
 
 ## Building
 
