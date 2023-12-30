@@ -1,23 +1,14 @@
 <div align="center">
 <img src="./assets/logo.png" alt="Logo" style="width: 300px" />
-<h1>Zilence</h1>
+<h1>Tilence</h1>
 </div>
 
-Zilence is a GNOME Shell extension turning off notifications while sharing screen during a Zoom call.
+Tilence is a GNOME Shell extension turning off notifications while sharing screen during a Kontur Talk call.
 
 It does so by:
 
-* tracking presence of Zoom's screen sharing panel (seen at the top-center of the screen),
+* tracking presence of Talk's screen sharing panel (seen at the top-center of the screen),
 * switching "Do Not Disturb" setting accordingly.
-
-## Compatibility
-
-This extension was tested with:
-
-* GNOME Shell versions: 3.36, 3.38, 40, 42;
-* Zoom Client for Linux versions: 5.4.2, 5.4.9, 5.9.0, 5.9.1, 5.11.10, 5.14.2, 5.15.2.
-
-However, it may work with older versions as well.
 
 ## Reporting issues
 
